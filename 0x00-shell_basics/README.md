@@ -11,5 +11,6 @@ SCRIPT 9: To Delete the file betty The file betty is in /tmp/my_first_directory.
 SCRIPT 10: To Delete the directory my_first_directory that is in the /tmp directory.
 SCRIPT 11: To Write a script that changes the working directory to the previous one. 
 SCRIPT 12: To Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
-SCRIPT 13: To Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.   
+SCRIPT 13: To Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script. 
+SCRIPT 14: To Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.   
 
