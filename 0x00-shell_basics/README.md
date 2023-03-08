@@ -8,5 +8,6 @@ SCRIPT 6: To Display Display current directory contents-Long format-with user an
 SCRIPT 7: To Display Display a script that creates a directory named my_first_directory in the /tmp/ directory.
 SCRIPT 8: To Move the file betty from /tmp/ to /tmp/my_first_directory.
 SCRIPT 9: To Delete the file betty The file betty is in /tmp/my_first_directory.
-SCRIPT 10: To Delete the directory my_first_directory that is in the /tmp directory.  
+SCRIPT 10: To Delete the directory my_first_directory that is in the /tmp directory.
+SCRIPT 11: To Write a script that changes the working directory to the previous one.  
 
