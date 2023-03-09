@@ -17,3 +17,4 @@ SCRIPT 15: To Create a script that copies all the HTML files from the current wo
 SCRIPT 16: To Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 SCRIPT 17: To Create a script that deletes all files in the current working directory that end with the character ~.
 SCRIPT 18: To Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+SCRIPT 19: To Write a command that lists all the files and directories of the current directory, separated by commas (,).
