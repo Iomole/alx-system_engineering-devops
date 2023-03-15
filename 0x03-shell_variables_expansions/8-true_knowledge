@@ -1,3 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=1000
 echo $(($TRUEKNOWLEDGE+128))
